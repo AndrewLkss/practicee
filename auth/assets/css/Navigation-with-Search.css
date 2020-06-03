@@ -1,0 +1,199 @@
+.navigation-clean-search {
+  background: #fff;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  color: #333;
+  border-radius: 0;
+  box-shadow: none;
+  border: none;
+  margin-bottom: 0;
+}
+
+@media (min-width:768px) {
+  .navigation-clean-search {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+.navigation-clean-search .navbar-brand {
+  font-weight: bold;
+  color: inherit;
+}
+
+.navigation-clean-search .navbar-brand:hover {
+}
+
+.navigation-clean-search .navbar-toggler {
+  border-color: #ddd;
+}
+
+.navigation-clean-search .navbar-toggler:hover, .navigation-clean-search .navbar-toggler:focus {
+  background: none;
+}
+
+.navigation-clean-search .navbar-toggler {
+  color: #888;
+}
+
+.navigation-clean-search .navbar-collapse, .navigation-clean-search .form-inline {
+  border-top-color: #ddd;
+}
+
+.navigation-clean-search .navbar-nav a.active, .navigation-clean-search .navbar-nav > .show > a {
+  background: none;
+  box-shadow: none;
+}
+
+.navigation-clean-search.navbar-light .navbar-nav a.active, .navigation-clean-search.navbar-light .navbar-nav a.active:focus, .navigation-clean-search.navbar-light .navbar-nav a.active:hover {
+  color: #8f8f8f;
+  box-shadow: none;
+  background: none;
+  pointer-events: none;
+}
+
+.navigation-clean-search.navbar .navbar-nav .nav-link {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.navigation-clean-search.navbar-light .navbar-nav .nav-link {
+  color: #465765;
+}
+
+.navigation-clean-search.navbar-light .navbar-nav .nav-link:focus, .navigation-clean-search.navbar-light .navbar-nav .nav-link:hover {
+  color: #37434d !important;
+  background-color: transparent;
+}
+
+.navigation-clean-search .action-button, .navigation-clean-button .action-button:active {
+  background: #56c6c6;
+  border-radius: 20px;
+  font-size: inherit;
+  color: #fff !important;
+  box-shadow: none;
+  border: none;
+  text-shadow: none;
+  padding: 8px 20px;
+  transition: background-color 0.25s;
+}
+
+.navigation-clean-search .action-button:hover, .navigation-clean-search .action-button:focus {
+  background: #66d7d7;
+}
+
+.navigation-clean-search .form-inline label {
+  color: #ffffff;
+}
+
+.navigation-clean-search .form-inline .search-field {
+  background: none;
+  border: none;
+  border-bottom: 1px solid transparent;
+  border-radius: 0;
+  color: #ccc;
+  box-shadow: none;
+  color: white;
+  transition: border-bottom-color 0.3s;
+}
+
+@media (max-width:767px) {
+  .navigation-clean-search .form-inline .search-field {
+    display: inline-block;
+    /*width: 80%;*/
+  }
+}
+
+.navigation-clean-search .form-inline .search-field:focus {
+  border-bottom: 1px solid #ffffff;
+  border-color: white;
+  /*border-radius: 2px;*/
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  margin-right: 30px;
+  width: 128px;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  border-color: rgb(250, 202, 31);
+}
+
+.navbar.navbar-light.navbar-expand-md.navigation-clean-search {
+  background-color: rgb(21, 112, 248);
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+c {
+}
+
+.input-group > .input-group-append > .btn, .input-group > .input-group-append > .input-group-text, .input-group > .input-group-prepend:first-child > .btn:not(:first-child), .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child), .input-group > .input-group-prepend:not(:first-child) > .btn, .input-group > .input-group-prepend:not(:first-child) > .input-group-text {
+  background-color: rgb(223,184,43);
+}
+
+#navcol-1 {
+  /*background-color: black;*/
+}
+
+.navbar.navbar-light.navbar-expand-md {
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background-color: rgba(51, 51, 51, 1);
+}
+
+.form-text.text-muted {
+}
+
+.form-text.text-muted {
+  color: rgb(250, 202, 31)!important;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.swiper-pagination-bullet-active {
+  color: rgb(255,255,255);
+}
+
+.swiper-pagination-bullet-active {
+  color: white;
+}
+
+.btn.btn-info.pull-right {
+  background-color: rgb(21, 112, 248);
+  color: white!important;
+  border-color: rgb(21, 112, 248);
+  /*box-shadow: 0 0 0 .2rem rgb(21, 112, 248)!important;*/
+}
+
+.product img {
+  width: 110px!important;
+}
+
+.product {
+  margin-left: 90px;
+}
+
+.btn.btn-info.pull-right {
+  background-color: rgb(21, 112, 248)!important;
+  border-color: rgb(21, 112, 248);
+}
+
+.btn-info {
+  background-color: rgb(21, 112, 248)!important;
+  color: black!important;
+  border-color: rgb(21, 112, 248)!important;
+}
+
+.input-group > .input-group-append > .btn, .input-group > .input-group-append > .input-group-text, .input-group > .input-group-prepend:first-child > .btn:not(:first-child), .input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child), .input-group > .input-group-prepend:not(:first-child) > .btn, .input-group > .input-group-prepend:not(:first-child) > .input-group-text {
+  width: 41px;
+  border-radius: 100px!important;
+}
+
+a:hover {
+  color: rgb(182,182,182);
+}
+
